@@ -115,3 +115,4 @@ client.on('message', () => {
       });  
     }
 })
+client.login(token)
